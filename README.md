@@ -1,1 +1,3 @@
-# android_kernel_Nokia_PL2
+Nokia 6.1 Kernel Source Changelog
+
+This repository contains the Kernel source code for Nokia 6.1 codename PL2 that has been officially released by HMD Global on their Opensource website (https://www.nokia.com/phones/en_int/opensource). It aims to be a reference point for users to track the changes that HMD Global / FIH makes with their kernel source code. Bear in mind that this repository is for reference use only and might not be supported for compiling ROMs with. 
